@@ -4,3 +4,5 @@ This repository is made to showcase certain school projects I have completed in 
 
 How to use this repository:
 - Each directory contains a code file and its corresponding files
+- Explore the projects I have done in class by clicking on each directory
+- Enjoy!
