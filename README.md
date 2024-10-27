@@ -1,8 +1,13 @@
 # School_projects
 
-This repository is made to showcase certain school projects I have completed in my respective programming classes. 
+This repository is made to showcase certain school projects I have completed in my respective classes. 
 
-How to use this repository:
-- Each directory contains a code file and its corresponding files
-- Explore the projects I have done in class by clicking on each directory
-- Enjoy!
+Contents:
+
+BST
+- This is a set of instructions that teach and demonstrate the algorithms involved in creating a BST
+- There is also the code implementation of a BST as a Python Class.
+
+Wordle
+- The game, Wordle, coded in Python in a user friendly interface.
+- Meant to be played within the terminal
