@@ -15,6 +15,3 @@ Wordle
 ShutTheBox
 - A game created in a lab for Mathematical Analysis I
 - Meant to be played within the terminal
-
-BookList
-- A python script utilizing the SQLite package to create a database of books I have read and books I wish to read
